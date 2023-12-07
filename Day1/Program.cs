@@ -6,7 +6,7 @@ namespace Day1
 {
     internal class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] _)
         {
             string[] digits = { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
             using (StreamReader reader = new StreamReader("D:\\DEV\\AdventOfCode2023\\Day1\\input.txt"))
